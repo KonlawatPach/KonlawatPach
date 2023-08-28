@@ -1,4 +1,4 @@
-## Hello, Welcome to all Visitors!, สวัสดีผู้เยี่ยมชม โปรไฟล์กิตฮับทุกท่าน! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hello, Welcome to all Visitors! & สวัสดีผู้เยี่ยมชม โปรไฟล์กิตฮับทุกท่าน! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <img src="profile.png"> 
 
@@ -43,7 +43,7 @@ developer, both frontend and backend.
     </a>
     &nbsp;
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
     </a>
     &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@ developer, both frontend and backend.
     </a>
     &nbsp;
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
     </a>
     &nbsp;    
 </p>
@@ -86,7 +86,7 @@ developer, both frontend and backend.
 ### Other
 <p align="left">
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
     &nbsp;
     <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank" rel="noreferrer">
