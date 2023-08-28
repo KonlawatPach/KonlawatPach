@@ -9,7 +9,6 @@ developer, both frontend and backend.
 * 🖥️  See my portfolio at [KonlawatPach](http://test.com)
 * ✉️  You can contact me at [pach.wongsrithong@gmail.com](mailto:pach.wongsrithong@gmail.com)
 * 🧠  I'm learning React Library
-* ⚡  I am a shy and introverted guy.
 
 ## Programming Skills
 ### Main Language
