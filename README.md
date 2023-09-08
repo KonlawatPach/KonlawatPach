@@ -6,7 +6,6 @@ I am a Junior Developer. I am interested in many technologies, but my main skill
 developer, both frontend and backend.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [KonlawatPach](http://test.com)
 * ✉️  You can contact me at [pach.wongsrithong@gmail.com](mailto:pach.wongsrithong@gmail.com)
 * 🧠  I'm learning React Library
 
