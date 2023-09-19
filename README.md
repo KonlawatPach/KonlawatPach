@@ -9,7 +9,7 @@ developer, both frontend and backend.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pach.wongsrithong@gmail.com](mailto:pach.wongsrithong@gmail.com)
-* 🧠  I'm learning React Library
+* 🧠  I'm learning React Library & PHP Laravel Framework
 
 ## Programming Skills
 ### Main Language
