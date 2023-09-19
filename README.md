@@ -1,10 +1,10 @@
 ## Hello, Welcome to all Visitors! 👋 & สวัสดีผู้เยี่ยมชม โปรไฟล์กิตฮับทุกท่าน! 👋
 
 <img src="profile.png"> 
+![](https://komarev.com/ghpvc/?username=KonlawatPach&style=plastic&color=green)
 
 I am a Junior Developer. I am interested in many technologies, but my main skill is as a website
 developer, both frontend and backend.
-![](https://komarev.com/ghpvc/?username=KonlawatPach&style=plastic&color=green)
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pach.wongsrithong@gmail.com](mailto:pach.wongsrithong@gmail.com)
